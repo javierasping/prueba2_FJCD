@@ -15,7 +15,7 @@ Aquí tienes un trozo de código en JavaScript:
 function holaMundo() {
     console.log("¡Hola, mundo!");
 }
-
+'''
 
 ### Lista ordenada
 1.Primero
@@ -31,7 +31,7 @@ function holaMundo() {
 
 [Enlace a otro fichero de markdown](markdown2.md)
 
-[Imagen](imagen.png)
+![Imagen](imagen.png)
 
 | Nombre    | Edad | Equipo    |
 |-----------|------|-----------|
