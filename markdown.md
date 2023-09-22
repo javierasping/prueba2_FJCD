@@ -11,11 +11,12 @@ Este es un párrafo de ejemplo con algunas formateaciones de texto:
 
 Aquí tienes un trozo de código en JavaScript:
 
-'''javascript
+```javascript
 function holaMundo() {
-    console.log("¡Hola, mundo!");
+console.log("¡Hola, mundo!");
 }
-'''
+```
+
 
 ### Lista ordenada
 1.Primero
